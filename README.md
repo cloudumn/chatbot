@@ -10,3 +10,7 @@
 
 
 ### Machine Learning
+[Matt Versaggi blog and resources](http://matt-versaggi.com/mit_open_courseware/)
+
+
+[OpenAI Gym for training/testing AI and algorithms](https://openai.com/)

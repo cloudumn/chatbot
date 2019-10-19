@@ -1,3 +1,3 @@
-FROM python:3.7
-RUN pip3 install numpy
-RUN pip3 install torch torchvision
+FROM jupyter/minimal-notebook
+RUN pip install numpy
+RUN pip install torch torchvision
